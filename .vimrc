@@ -37,10 +37,10 @@ se shiftwidth=4
 se expandtab
 se nu
 
-set number relativenumber                                                                                                                                                                                           "set nu rnu                                                                                                                                                                                                          colorscheme gruvbox
+set number relativenumber
 set nu rnu
 colorscheme gruvbox
-set background=dark 
+set background=dark
 
 " Folding related.
 "set foldlevelstart=20
